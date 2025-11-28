@@ -41,10 +41,10 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
+  ![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=SergioCoitino);
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?SergioCoitino" /></p> 
 <br></div>
 
-![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=SergioCoitino);
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0232f0&height=120&section=footer"/>
 
