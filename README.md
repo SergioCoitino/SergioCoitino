@@ -41,10 +41,9 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioCoitino" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=SergioCoitino" /></p> 
 <br></div>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0232f0&height=120&section=footer"/>
 
