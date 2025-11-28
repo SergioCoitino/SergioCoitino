@@ -16,9 +16,7 @@
 <div align="center">  
 <a href="https://www.instagram.com/sergio.coitino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ED6249?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/sergiocoitino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://sergio-coitino-portfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1D2053?style=for-the-badge&logo=portfolio&logoColor=white"</a>
-
-
+<a href="https://sergio-coitino-portfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-1D2053?style=for-the-badge&logo=codecrafters&logoColor=white"</a>
 </div> 
  
 ### Main skills:
