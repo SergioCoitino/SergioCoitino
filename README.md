@@ -41,8 +41,8 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-  ![Estadísticas de Github](https://github-readme-stats.vercel.app/api?username=SergioCoitino);
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?SergioCoitino" /></p> 
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioCoitino" /></p> 
 <br></div>
 
 
